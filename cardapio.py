@@ -4,5 +4,6 @@ def mostrar_cardapio():
     print("1. Margherita .......... R$ 42,00")
     print("2. Calabresa ........... R$ 45,00")
     print("3. Quatro Queijos ...... R$ 52,00")
+    print("4. Chocolate ........... R$ 48,00")
 
 mostrar_cardapio()
